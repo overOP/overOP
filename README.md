@@ -223,6 +223,15 @@ me.craft_solutions()  # The adventure begins!
 
 <h3 align="center">🔥 Recent Activity</h3>
 
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/overOP/overOP/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/overOP/overOP/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/overOP/overOP/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 
 
 <h2 align="center">🤝 Let's Connect and Create Together!</h2>
