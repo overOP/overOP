@@ -4,7 +4,12 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World!&fontAlign=75&fontAlignY=40&color=gradient&customColorList=24" width="100%" />
-  
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00E8FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Pradeep+Chaudhary;Full+Stack+Developer;PERN+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+</a>
+
+
 
   <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" />
 </div>
