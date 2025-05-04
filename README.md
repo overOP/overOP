@@ -223,6 +223,13 @@ me.craft_solutions()  # The adventure begins!
 
 <h3 align="center">🔥 Recent Activity</h3>
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=overOP&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=overOP&theme=tokyonight&background=00000000&hide_border=true&ring=00E8FF&fire=00E8FF&currStreakLabel=00E8FF"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=overOP&bg_color=00000000&color=00E8FF&line=00E8FF&point=FFFFFF&area=true&hide_border=true"/>
+</div>
+
+
 <!-- Snake Animation -->
 <div align="center">
   <picture>
