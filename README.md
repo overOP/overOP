@@ -252,7 +252,7 @@ me.craft_solutions()  # The adventure begins!
   <a href="mailto:cgpradeepop@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/pradeep-chaudhary-0a49b331a /">
+  <a href="https://www.linkedin.com/in/pradeep-chaudhary-0a49b331a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://vercel.com/pradeeps-projects-2a3a96e2">
