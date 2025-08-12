@@ -67,12 +67,12 @@ me.craft_solutions()  # The adventure begins!
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       </a>
       <br>Python
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -91,12 +91,12 @@ me.craft_solutions()  # The adventure begins!
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
       </a>
       <br>Django
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
@@ -105,68 +105,68 @@ me.craft_solutions()  # The adventure begins!
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="65" height="65" />
       </a>
       <br>TensorFlow
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="65" height="65" />
       </a>
       <br>PyTorch
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
       </a>
       <br>FastAPI
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
       </a>
       <br>MongoDB
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
       </a>
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="65" height="65" />
       </a>
       <br>Redis
-    </td>
+    </td> -->
   </tr>
   <tr>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
       </a>
       <br>AWS
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
       </a>
       <br>Docker
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="65" height="65" />
       </a>
       <br>Kubernetes
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="65" height="65" />
       </a>
       <br>Nginx
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
@@ -249,7 +249,7 @@ me.craft_solutions()  # The adventure begins!
 <h2 align="center">🤝 Let's Connect and Create Together!</h2>
 
 <div align="center">
-  <a href="mailto:cgpradeepop@gmail.com">
+  <a href="mailto:dev.pradeepchaudhary.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/pradeep-chaudhary-0a49b331a/">
