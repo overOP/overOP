@@ -135,6 +135,18 @@ me.craft_solutions()  # The adventure begins!
       </a>
       <br>PostgreSQL
     </td>
+        <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
+      </a>
+      <br>Next.js
+    </td>
     <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="65" height="65" />
@@ -167,7 +179,7 @@ me.craft_solutions()  # The adventure begins!
       </a>
       <br>Nginx
     </td> -->
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
       </a>
@@ -178,7 +190,7 @@ me.craft_solutions()  # The adventure begins!
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
       </a>
       <br>Next.js
-    </td>
+    </td> -->
   </tr>
 </table>
 
