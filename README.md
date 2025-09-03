@@ -67,12 +67,12 @@ me.craft_solutions()  # The adventure begins!
 <div align="center">
 <table>
   <tr>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       </a>
       <br>Python
-    </td> -->
+    </td>
     <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -135,18 +135,6 @@ me.craft_solutions()  # The adventure begins!
       </a>
       <br>PostgreSQL
     </td>
-        <td align="center" width="96">
-      <a href="javascript:void(0)">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="javascript:void(0)">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
-      </a>
-      <br>Next.js
-    </td>
     <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="65" height="65" />
@@ -161,12 +149,12 @@ me.craft_solutions()  # The adventure begins!
       </a>
       <br>AWS
     </td> -->
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
       </a>
       <br>Docker
-    </td> -->
+    </td>
     <!-- <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="65" height="65" />
@@ -179,7 +167,7 @@ me.craft_solutions()  # The adventure begins!
       </a>
       <br>Nginx
     </td> -->
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
       </a>
@@ -190,7 +178,7 @@ me.craft_solutions()  # The adventure begins!
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
       </a>
       <br>Next.js
-    </td> -->
+    </td>
   </tr>
 </table>
 
