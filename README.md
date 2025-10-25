@@ -24,7 +24,7 @@
 class DigitalCraftsman:
     def __init__(self):
         self.name = "Pradeep Chaudhary"
-        self.role = "Full Stack Developer & PERN Developer"
+        self.role = "Full Stack Developer"
         self.student = "kingsway Academy Student"
         self.base = "UK University, Nepal 🇳🇵"
         self.philosophy = {
