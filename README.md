@@ -183,7 +183,7 @@ me.craft_solutions()  # The adventure begins!
   </table>
 </div> -->
 
-<h2 align="center">📊 GitHub Analytics: Track Your Growth</h2>
+<!-- <h2 align="center">📊 GitHub Analytics: Track Your Growth</h2>
 
 <h3 align="center">🔥 Recent Activity</h3>
 
@@ -195,13 +195,13 @@ me.craft_solutions()  # The adventure begins!
 
 
 <!-- Snake Animation -->
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/overOP/overOP/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/overOP/overOP/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/overOP/overOP/output/github-snake.svg" />
   </picture>
-</div>
+</div> --> -->
 
 
 
