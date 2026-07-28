@@ -156,6 +156,20 @@ me.craft_solutions()  # The adventure begins!
 </div>
 </div>
 
+<h2 align="center">🧬 Data Science &amp; Machine Learning Toolkit</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/NumPy-00FF41?style=for-the-badge&logo=numpy&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Pandas-00FF41?style=for-the-badge&logo=pandas&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-00FF41?style=for-the-badge&logo=scikitlearn&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Matplotlib-00FF41?style=for-the-badge&logo=matplotlib&logoColor=black&labelColor=0D1117" />
+  <br/>
+  <img src="https://img.shields.io/badge/Seaborn-00FF41?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Jupyter-00FF41?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/FastAPI-00FF41?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Google_Colab-00FF41?style=for-the-badge&logo=googlecolab&logoColor=black&labelColor=0D1117" />
+</div>
+
 <h2 align="center">📚 Currently Leveling Up</h2>
 
 <div align="center">
@@ -216,25 +230,25 @@ me.craft_solutions()  # The adventure begins!
   </table>
 </div> -->
 
-<!-- <h2 align="center">📊 GitHub Analytics: Track Your Growth</h2>
+<h2 align="center">📊 &gt; GitHub Analytics: Track Your Growth</h2>
 
 <h3 align="center">🔥 Recent Activity</h3>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=overOP&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=00E8FF&title_color=00E8FF&text_color=FFFFFF"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=overOP&theme=tokyonight&background=00000000&hide_border=true&ring=00E8FF&fire=00E8FF&currStreakLabel=00E8FF"/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=overOP&bg_color=00000000&color=00E8FF&line=00E8FF&point=FFFFFF&area=true&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=overOP&show_icons=true&theme=tokyonight&bg_color=0D1117&icon_color=00FF41&title_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=overOP&theme=tokyonight&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=overOP&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=false&border=00FF41"/>
 </div>
 
+<h3 align="center">🐍 Contribution Snake</h3>
 
-<!-- Snake Animation -->
-<!-- <div align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/overOP/overOP/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/overOP/overOP/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/overOP/overOP/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/overOP/overOP/output/github-snake-dark.svg" width="100%"/>
   </picture>
-</div> --> 
+</div>
 
 <h2 align="center">🤝 &gt; connect --with=me</h2>
 
@@ -251,7 +265,7 @@ me.craft_solutions()  # The adventure begins!
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AashishThakuri&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=0D1117"/>
+  <img src="https://komarev.com/ghpvc/?username=overOP&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=0D1117"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Keep%20Hacking!&fontSize=30&fontAlign=80&fontAlignY=80&color=gradient&customColorList=1&fontColor=00FF41" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Keep%20Coding!&fontSize=30&fontAlign=80&fontAlignY=80&color=gradient&customColorList=1&fontColor=00FF41" width="100%" />
