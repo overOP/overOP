@@ -3,21 +3,25 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World!&fontAlign=75&fontAlignY=40&color=gradient&customColorList=24" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%3E%20system.boot()&fontAlign=50&fontAlignY=40&color=gradient&customColorList=1&fontColor=00FF41" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00E8FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Pradeep+Chaudhary;Full+Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40pradeep%3A~%23+whoami;Full+Stack+Developer;Data+Science+%2B+ML+Enthusiast;UI%2FUX+%7C+QA+%7C+Automation;Breaking+things...+then+fixing+them" alt="Typing SVG" />
 </a>
 
-
-
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/gsedej/gsedej/master/matrix.gif" width="100%" height="120" />
 </div>
 
-<h2 align="center">✨ About Me: The Creative Journey</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117&logo=terminal&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00FF41?style=for-the-badge&labelColor=0D1117&logo=shield&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/BUILD-LEARNING-00FF41?style=for-the-badge&labelColor=0D1117&logo=codeforces&logoColor=00FF41" />
+</p>
+
+<h2 align="center">💻 &gt; About Me: The Creative Journey</h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="120px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500px" />
 </div>
 
 ```python
@@ -25,33 +29,41 @@ class DigitalCraftsman:
     def __init__(self):
         self.name = "Pradeep Chaudhary"
         self.role = "Full Stack Developer"
-        self.student = "kingsway Academy Student"
-        self.base = "UK University, Nepal 🇳🇵"
+        self.education = {
+            "school": "Kingsway Academy",
+            "self_directed": "Skill Shikshya — Data Science & Machine Learning"
+        }
+        self.currently_learning = [
+            "Data Science & Machine Learning",
+            "UI/UX Design",
+            "QA & Software Testing"
+        ]
+        self.base = "Nepal 🇳🇵"
         self.philosophy = {
             "code": "Elegance in simplicity",
             "learning": "Never stop exploring",
             "teaching": "Share to inspire",
             "building": "Create with purpose"
         }
-        
+
     def craft_solutions(self):
         while self.is_alive():
             morning = self.learn_new_technology()
             afternoon = self.build_innovative_projects()
             evening = self.share_knowledge()
             night = self.dream_bigger()
-            
+
             return morning + afternoon + evening + night
-            
+
     def get_inspiration(self):
         return """
         💭 My Creative Process:
-        
+
         1. Imagine the impossible
         2. Break it down into possible
         3. Code it into reality
         4. Share it with the world
-        
+
         Because every line of code
         is a brushstroke on the canvas
         of tomorrow's technology.
@@ -67,83 +79,104 @@ me.craft_solutions()  # The adventure begins!
 <div align="center">
 <table align="center">
   <tr>
-    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #f7f9fc; box-shadow: 0 4px 10px rgba(0,0,0,0.05); transition: all 0.3s ease;">
+    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #0D1117; box-shadow: 0 0 12px rgba(0,255,65,0.25);">
       <a href="javascript:void(0)" style="text-decoration: none;">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" style="border-radius: 10px;"/>
         <br>
-        <span style="font-weight: bold; color: #3776AB;">Python</span>
+        <span style="font-weight: bold; color: #00FF41;">Python</span>
       </a>
     </td>
-    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #f7f9fc; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #0D1117; box-shadow: 0 0 12px rgba(0,255,65,0.25);">
       <a href="javascript:void(0)">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70"/>
         <br>
-        <span style="font-weight: bold; color: #f7df1e;">JavaScript</span>
+        <span style="font-weight: bold; color: #00FF41;">JavaScript</span>
       </a>
     </td>
-    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #f7f9fc; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #0D1117; box-shadow: 0 0 12px rgba(0,255,65,0.25);">
       <a href="javascript:void(0)">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="70" height="70"/>
         <br>
-        <span style="font-weight: bold; color: #61DBFB;">React</span>
+        <span style="font-weight: bold; color: #00FF41;">React</span>
       </a>
     </td>
-    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #f7f9fc; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #0D1117; box-shadow: 0 0 12px rgba(0,255,65,0.25);">
       <a href="javascript:void(0)">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="70" height="70"/>
         <br>
-        <span style="font-weight: bold; color: #3178C6;">TypeScript</span>
+        <span style="font-weight: bold; color: #00FF41;">TypeScript</span>
       </a>
     </td>
-    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #f7f9fc; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #0D1117; box-shadow: 0 0 12px rgba(0,255,65,0.25);">
       <a href="javascript:void(0)">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70"/>
         <br>
-        <span style="font-weight: bold; color: #181717;">GitHub</span>
+        <span style="font-weight: bold; color: #00FF41;">GitHub</span>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <!-- REPLACED: REST API / Backend -->
-      <img src="https://img.shields.io/badge/REST--API-00E8FF?style=for-the-badge&logo=web&logoColor=white" alt="REST API" width="140"/><br/>
-      <strong>REST API</strong>
+      <img src="https://img.shields.io/badge/REST--API-00FF41?style=for-the-badge&logoColor=black&labelColor=0D1117" alt="REST API" width="140"/><br/>
+      <strong style="color:#00FF41;">REST API</strong>
     </td>
-    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #f7f9fc; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #0D1117; box-shadow: 0 0 12px rgba(0,255,65,0.25);">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="70" height="70"/>
         <br>
-        <span style="font-weight: bold; color: #336791;">PostgreSQL</span>
+        <span style="font-weight: bold; color: #00FF41;">PostgreSQL</span>
       </a>
     </td>
-    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #f7f9fc; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #0D1117; box-shadow: 0 0 12px rgba(0,255,65,0.25);">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="70" height="70"/>
         <br>
-        <span style="font-weight: bold; color: #2496ED;">Docker</span>
+        <span style="font-weight: bold; color: #00FF41;">Docker</span>
       </a>
     </td>
-    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #f7f9fc; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #0D1117; box-shadow: 0 0 12px rgba(0,255,65,0.25);">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="70" height="70"/>
         <br>
-        <span style="font-weight: bold; color: #38BDF8;">Tailwind</span>
+        <span style="font-weight: bold; color: #00FF41;">Tailwind</span>
       </a>
     </td>
-    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #f7f9fc; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+    <td align="center" width="120" style="padding: 15px; border-radius: 12px; background: #0D1117; box-shadow: 0 0 12px rgba(0,255,65,0.25);">
       <a href="javascript:void(0)">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="70" height="70"/>
         <br>
-        <span style="font-weight: bold; color: #000000;">Next.js</span>
+        <span style="font-weight: bold; color: #00FF41;">Next.js</span>
       </a>
     </td>
   </tr>
 </table>
 
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,bash,vim,vscode,postman" alt="More Skills" />
 </div>
+</div>
+
+<h2 align="center">📚 Currently Leveling Up</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🎓_Kingsway_Academy-Student-00FF41?style=for-the-badge&labelColor=0D1117"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/📊_Skill_Shikshya-Data_Science_%26_ML-00FF41?style=for-the-badge&labelColor=0D1117"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🎨_UI%2FUX-Learning-00FF41?style=for-the-badge&labelColor=0D1117"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🧪_QA_%26_Testing-Learning-00FF41?style=for-the-badge&labelColor=0D1117"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 <h2 align="center">🌟 Featured Projects: Learning Through Building</h2>
@@ -203,24 +236,22 @@ me.craft_solutions()  # The adventure begins!
   </picture>
 </div> --> 
 
-
-
-<h2 align="center">🤝 Let's Connect and Create Together!</h2>
+<h2 align="center">🤝 &gt; connect --with=me</h2>
 
 <div align="center">
   <a href="mailto:dev.pradeepchaudhary.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117"/>
   </a>
   <a href="https://www.linkedin.com/in/pradeep-chaudhary-0a49b331a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117"/>
   </a>
   <a href="https://vercel.com/pradeeps-projects-2a3a96e2">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=About.me&logoColor=black&labelColor=0D1117"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AashishThakuri&style=for-the-badge&color=00E8FF"/>
+  <img src="https://komarev.com/ghpvc/?username=AashishThakuri&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=0D1117"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Happy%20Coding!&fontSize=30&fontAlign=80&fontAlignY=80&color=gradient&customColorList=24" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Keep%20Hacking!&fontSize=30&fontAlign=80&fontAlignY=80&color=gradient&customColorList=1&fontColor=00FF41" width="100%" />
